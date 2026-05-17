@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Bio"
+title: "About Me"
 author_profile: true
 redirect_from: 
-  - /bio/
-  - /bio.html
+  - /about/
+  - /about.html
 ---
 
 My name is Patrick Lynch and I am a Ph.D. candidate in computer science at Washington University in St. Louis. I work under the advisory of Chenyang Lu as part of the Cyber-Physical Systems Labaratory and the AI for Health Institute. I received my B.S. in computer science and cognitive neuroscience from WashU in 2023, and subsequently completed my M.S. in computer sciencce at WashU in 2024. My research interests include computer vision and neuroimaging, with a particular emphasis on representation learning.
