@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.jpeg"
+  avatar           : "headshot.jpg"
   name             : "Patrick Lynch"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  # bio              : "Short biography for the left-hand sidebar"
+  location         : "St. Louis, MO, USA"
   employer         : "Washington University in St. Louis"
   uri              : # URL
   email            : "patricklynch@wustl.edu" 
