@@ -15,3 +15,5 @@ Research
 
 * Lee, Y., Wang, R., **Lynch, P.**, Gao, P., Baum, M. C., Lu, C., &Connor, L. T. (accepted) Developing an artificial intelligence-based smart kitchen system to detect functional cognitive errors during a simple cooking task. Oral presentation the 19th World Federation of Occupational Therapy Congress (WFOT), Bangkok, Thailand.
 
+CV
+======
