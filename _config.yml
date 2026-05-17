@@ -26,7 +26,7 @@ author:
   avatar           : "headshot.jpeg"
   name             : "Patrick Lynch"
   pronouns         : # example: "she/her"  
-  # bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "St. Louis, MO, USA"
   employer         : "WashU"
   uri              : # URL
